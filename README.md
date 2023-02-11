@@ -4,7 +4,17 @@
 <h2>Esse foi um projeto que aprendi no curso dos devs.</h2
 <br>
 <br>
-Ilustração do projeto.
+
+  <h3 > Ilustração do projeto <h3>
 <br>
 <br>
-<img src=
+<br>  
+<img src="https://raw.githubusercontent.com/Carlosprogramador84/Easy-Shopping/c7cad3aa74a309a02e342cc0c14b1d84d8c71a69/pc.png" />  
+
+  <br>
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/Carlosprogramador84/Easy-Shopping/c7cad3aa74a309a02e342cc0c14b1d84d8c71a69/mobile.png" />
+
+
+
