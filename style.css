@@ -114,7 +114,7 @@ header {
     margin: 24px 0 0 57px;
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:1015px) {
 
     
     .container-left {
@@ -130,13 +130,13 @@ header {
         height: auto;
         width: 100%;
         position: static;
-        padding: 40px;
         
     }
 
     img {
         position: static;
         max-width: 90%;
+        
 
     }
 
@@ -146,7 +146,7 @@ header {
 
 
     h1 {
-        font-size: 36px;
+        font-size: 25px;
         line-height: 52px;
         width: auto;
         margin: 58px 50px 0 50px;
@@ -164,9 +164,9 @@ header {
     }
 
     button {
-        margin: 0 auto;
+        margin: 10px auto;
         display: block;
-        
+
     }
 }
 
